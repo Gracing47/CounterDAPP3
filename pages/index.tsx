@@ -13,7 +13,7 @@ const Home: NextPage = () => {
   return (
     <main className={styles.main}>
         <div className={styles.container}>
-            <h1>Counter Dapp</h1>
+            <h1>Counter Dapp3</h1>
             <div className={styles.counterContainer}>
                 <ConnectWallet />
 
